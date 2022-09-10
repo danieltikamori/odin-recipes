@@ -1,0 +1,36 @@
+* {
+    flex-wrap: wrap;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p,
+ul,
+ol {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: mediumblue;
+}
+
+h3 {
+    color: blue;
+}
+
+.main-image {
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
